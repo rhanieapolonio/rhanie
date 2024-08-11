@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE rhanie21 html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
